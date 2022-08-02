@@ -5,7 +5,9 @@ import PropTypes from 'prop-types';
 
 
 class BurgerIngredient extends Component {
-    
+     state {[
+        const burger = {}
+     ]}
     render(){
         let ingredients = null
 
